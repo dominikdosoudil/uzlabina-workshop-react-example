@@ -1,0 +1,9 @@
+/*
+not using base because it breaks my scss example
+if you choose the tailwind for yourself, use the base as documentation recommends
+
+@tailwind base;
+
+*/
+@tailwind components;
+@tailwind utilities;
